@@ -32,4 +32,4 @@ let isAluno =Boolean( prompt(`vocÊ e aulno? sim ou não`))
 let altura =  Number(prompt(`adicione sua altura:`))
 let peso = Number(prompt(`adicione seu peso:`))
 
-let imc = alert( `seu imc e:${peso/ (altura * altura)}`)
+let imc = alert(`seu imc e:${ peso/ (altura * altura)}`)
